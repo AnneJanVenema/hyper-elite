@@ -1,5 +1,5 @@
 # hyper-elite
-Elite Dangerous inspired theme for Hyper.
+> A very orange theme for Hyper. Inspired by Elite Dangerous
 
 ![](screenshot.png)
 
