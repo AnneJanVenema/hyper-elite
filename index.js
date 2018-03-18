@@ -1,6 +1,4 @@
 'use strict';
-
-// const username = require('username');
 const foregroundColor = '#ffdeca';
 const backgroundColor = '#120705';
 const orange = '#ff7100';
@@ -10,12 +8,9 @@ let message = true;
 // Welcome message
 // TODO: Change this to something more dynamic
 let eliteMessage = 'Greetings, CMDR';
-// username().then(username => {
-//   eliteMessage = 'Welcome CMDR '+username;
-// });
 
-// Get the date
 // TODO: Update date after 00:00
+// Get the date
 const date = new Date(),
       locale = "en-us",
       eliteDate = date.getDate()+' '+date.toLocaleString(locale, { month: "short" })+' '+(date.getUTCFullYear() + 1286);
