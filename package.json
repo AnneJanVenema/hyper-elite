@@ -1,6 +1,6 @@
 {
   "name": "hyper-elite",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Elite theme for Hyper",
   "license": "MIT",
   "repository": "annejanvenema/hyper-elite",
@@ -18,7 +18,4 @@
     "elite",
     "dangerous"
   ],
-  "dependencies": {
-    "username": "^3.0.0"
-  }
 }
