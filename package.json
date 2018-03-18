@@ -1,0 +1,24 @@
+{
+  "name": "hyper-elite",
+  "version": "0.0.1",
+  "description": "Elite theme for Hyper",
+  "license": "MIT",
+  "repository": "annejanvenema/hyper-elite",
+  "author": {
+    "name": "Anne-Jan Venema",
+    "email": "annejan@designbot.nl",
+    "url": "designbot.nl"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "theme",
+    "elite",
+    "dangerous"
+  ],
+  "dependencies": {
+    "username": "^3.0.0"
+  }
+}
