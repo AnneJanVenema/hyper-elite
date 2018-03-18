@@ -1,2 +1,2 @@
 # hyper-elite
-Elite Dangerous inspired theme for Hyper
+Elite Dangerous inspired theme for Hyper.
